@@ -95,9 +95,9 @@ A collection of academic and personal work exploring machine learning and data a
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/dist/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/dist/snake.svg">
-  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/dist/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/snake.svg">
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/snake.svg">
 </picture>
 
 </div>
