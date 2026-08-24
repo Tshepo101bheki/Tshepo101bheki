@@ -72,7 +72,33 @@ A collection of academic and personal work exploring machine learning and data a
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tshepo101bheki&hide_border=true&theme=default" />
+
+</div>
+
+<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Tshepo101bheki&theme=flat&no-frame=true&margin-w=8&column=4" />
+
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/pacman-contribution-graph.svg">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/dist/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/dist/snake.svg">
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/dist/snake.svg">
+</picture>
 
 </div>
 
