@@ -133,6 +133,26 @@ The project gave me experience working with other developers, using **Git branch
 
 ---
 
+### 🏟️ LiveSportUpdates
+
+A **real-time sports broadcasting and viewer experience platform** developed as part of the **ScopeThis-Async** team.
+
+The project provided experience working in a collaborative development environment and contributing to a real-time, sports-focused application.
+
+**Tech Stack**
+
+`Shell` `Git` `GitHub`
+
+<div align="left">
+
+<a href="https://github.com/ScopeThis-Async/LiveSportUpdates">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 ### 🤖 Machine Learning Projects
 
 A collection of academic and personal work exploring:
@@ -171,7 +191,9 @@ A collection of academic and personal work exploring:
 <img
  alt="Pac-Man eating my GitHub contribution graph"
  src="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/pacman-contribution-graph.svg"
-/> </picture>
+/>
+
+</picture>
 
 </div>
 
