@@ -1,23 +1,37 @@
-# Tshepo Mngomezulu
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff66,100:0d0d0d&height=180&section=header&text=TSHEPO%20MNGOMEZULU&fontSize=42&fontColor=00ff66&animation=twinkling&fontAlignY=35&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20%7C%20DATA%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=16&descColor=ffffff"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+Wits;Software+Developer;Data+Science+Enthusiast;Machine+Learning+Enthusiast;Always+Learning+%26+Building" />
+
+</div>
+
+---
+
+## 🟢 `ABOUT_ME`
 
 Final-year Computer Science student at the University of the Witwatersrand (Wits), graduating in 2026.
 
 I'm interested in the intersection of software engineering, data science, and machine learning — I like understanding how systems work under the hood, and building applications that solve real problems.
 
-## About
+```text
+🎓  COMPUTER SCIENCE @ WITS, GRADUATING 2026
+💻  SOFTWARE DEVELOPMENT
+📊  DATA SCIENCE & BIG DATA
+🤖  MACHINE LEARNING & AI
+🖥️  SYSTEMS & OPERATING SYSTEMS
+🧮  ALGORITHMS & DATA STRUCTURES
+```
 
-- 🎓 Computer Science @ Wits, graduating 2026
-- 💻 Software development
-- 📊 Data science & big data
-- 🤖 Machine learning & AI
-- 🖥️ Systems & operating systems
-- 🧮 Algorithms & data structures
+---
 
-## Currently Strengthening
+## 🟢 `CURRENTLY_LEVELING_UP`
 
-Operating Systems · Artificial Intelligence · Machine Learning · Data Science · Algorithms · Full-Stack Development
+`OPERATING SYSTEMS` · `ARTIFICIAL INTELLIGENCE` · `MACHINE LEARNING` · `DATA SCIENCE` · `ALGORITHMS` · `FULL-STACK DEVELOPMENT`
 
-## Tech Stack
+---
+
+## 🟢 `TECH_STACK`
 
 **Languages:** C, C++, Java, Python, JavaScript, HTML, CSS, LaTeX
 
@@ -25,7 +39,7 @@ Operating Systems · Artificial Intelligence · Machine Learning · Data Science
 
 **Data & Machine Learning:** Python, NumPy, Pandas, Matplotlib
 
-**Tools:** Git, GitHub, Linux, VS Code, Figma, Azure
+**Tools:** Git, GitHub, Linux, VS Code, Azure
 
 <div align="center">
 
@@ -33,56 +47,79 @@ Operating Systems · Artificial Intelligence · Machine Learning · Data Science
 <br><br>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase&theme=dark" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,azure&theme=dark" />
 
 </div>
 
-## Projects
+---
 
-### StudySync
-*In development*
+## 🟢 `QUEST_LOG`
+
+### 🎮 STUDYSYNC
+> **STATUS:** `IN DEVELOPMENT`
 
 A study-focused web application to help students organise their learning, manage study sessions and timetables, and collaborate.
 
-**Stack:** React, Node.js, Express, MongoDB
+```text
+STACK
+├── React
+├── Node.js
+├── Express
+└── MongoDB
+```
 
-[View Project](https://github.com/Tshepo101bheki)
+🔗 **[VIEW PROJECT](https://github.com/Tshepo101bheki)**
 
-### UniResCollab
-*Team project*
+---
+
+### 🎮 UNIRESCOLLAB
+> **STATUS:** `TEAM PROJECT`
 
 A collaborative university research platform built as part of a team project. Gave me experience working with other developers using Git branches, contributing independently, and integrating work into a shared codebase.
 
-**Stack:** HTML, CSS, JavaScript, Git
+```text
+STACK
+├── HTML
+├── CSS
+├── JavaScript
+└── Git
+```
 
-[View Project](https://github.com/MualusiLilimu/UniResCollab)
+🔗 **[VIEW PROJECT](https://github.com/MualusiLilimu/UniResCollab)**
 
-### Machine Learning Projects
+---
+
+### 🎮 MACHINE LEARNING PROJECTS
+> **STATUS:** `LEVELING UP`
 
 A collection of academic and personal work exploring machine learning and data analysis, including classification, feature engineering, dimensionality reduction, and predictive modelling.
 
-## GitHub Stats
+---
+
+## 🟢 `GITHUB_STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tshepo101bheki&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepo101bheki&layout=compact&hide_border=true&theme=default" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tshepo101bheki&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=00ff66&text_color=ffffff&icon_color=00ff66&border_color=00ff66" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepo101bheki&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff66&text_color=ffffff&border_color=00ff66" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tshepo101bheki&hide_border=true&theme=default" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tshepo101bheki&hide_border=true&background=0d0d0d&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tshepo101bheki&theme=flat&no-frame=true&margin-w=8&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tshepo101bheki&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
-## Contribution Activity
+---
+
+## 🟢 `CONTRIBUTION_ACTIVITY`
 
 <div align="center">
 
@@ -94,12 +131,41 @@ A collection of academic and personal work exploring machine learning and data a
 
 </div>
 
-## Looking For
+---
+
+## 🟢 `CAREER_MODE`
 
 I'm looking to grow into a role that combines software engineering, data, and machine learning to build useful, scalable technology.
 
-**Target roles:** Software Engineering · Data Science · Machine Learning · Big Data · AI
+`SOFTWARE ENGINEERING` · `DATA SCIENCE` · `MACHINE LEARNING` · `BIG DATA` · `AI`
 
-## Connect
+---
 
-[GitHub](https://github.com/Tshepo101bheki) · [LinkedIn](YOUR_LINKEDIN_URL)
+## 🟢 `CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/Tshepo101bheki">
+<img src="https://img.shields.io/badge/GITHUB-00FF66?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-00FF66?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `> GAME OVER? NEVER.`
+**Keep learning. Keep building. Keep improving. 🟢**
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff66,100:0d0d0d&height=100&section=footer"/>
+
+</div>
