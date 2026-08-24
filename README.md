@@ -1,92 +1,210 @@
 <div align="center">
 
-<h1>Tshepo Mngomezulu</h1>
+# 👋 Hi, I'm Tshepo Mngomezulu
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=2E2E2E&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Wits;Software+Developer;Data+Science+%26+Machine+Learning" />
+### Computer Science Student @ Wits · Software Developer · Aspiring Data Scientist
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=2E2E2E&center=true&vCenter=true&width=650&lines=Computer+Science+%40+Wits;Software+Developer;Data+Science+%26+Machine+Learning;Building+Things+That+Solve+Problems" />
+
+<br>
+
+<a href="https://github.com/Tshepo101bheki">
+  <img src="https://img.shields.io/github/followers/Tshepo101bheki?label=Followers&style=for-the-badge&logo=github&color=181717" />
+</a>
+<a href="https://github.com/Tshepo101bheki?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## About
+## 🧑🏽‍💻 About Me
 
-Final-year Computer Science student at the University of the Witwatersrand (Wits), graduating in 2026.
+I'm a **final-year Computer Science student at the University of the Witwatersrand (Wits)**, graduating in **2026**.
 
-I'm interested in the intersection of software engineering, data science, and machine learning — I like understanding how systems work under the hood, and building applications that solve real problems.
+I'm interested in the intersection of **software engineering, data science, and machine learning**. I enjoy understanding how systems work under the hood and turning ideas into applications that solve real problems.
 
-- 🎓 Computer Science @ Wits, graduating 2026
-- 💻 Software development
-- 📊 Data science & big data
-- 🤖 Machine learning & AI
-- 🖥️ Systems & operating systems
-- 🧮 Algorithms & data structures
+* 🎓 Computer Science @ Wits — graduating 2026
+* 💻 Software Engineering & Full-Stack Development
+* 📊 Data Science & Big Data
+* 🤖 Machine Learning & AI
+* 🖥️ Systems & Operating Systems
+* 🧮 Algorithms & Data Structures
 
-## Currently Strengthening
+---
 
-Operating Systems · Artificial Intelligence · Machine Learning · Data Science · Algorithms · Full-Stack Development
+## 🚀 Currently Strengthening
 
-## Tech Stack
+<p align="center">
 
-**Languages:** C, C++, Java, Python, JavaScript, HTML, CSS, LaTeX
+<img src="https://img.shields.io/badge/Operating%20Systems-111827?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Algorithms-111827?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack-111827?style=for-the-badge&logo=javascript&logoColor=white" />
 
-**Web Development:** React, Node.js, Express, MongoDB, MySQL, Firebase
+</p>
 
-**Data & Machine Learning:** Python, NumPy, Pandas, Matplotlib
+---
 
-**Tools:** Git, GitHub, Linux, VS Code, Azure
+## 🛠️ Tech Stack
+
+### Languages
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,latex" />
-<br><br>
+
+</div>
+
+### Web Development
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase" />
+
+</div>
+
+### Data & Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
 <br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+
+</div>
+
+### Tools & Platforms
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,azure" />
 
 </div>
 
-## Projects
+---
 
-### StudySync
-*In development*
+## 💻 Featured Projects
 
-A study-focused web application to help students organise their learning, manage study sessions and timetables, and collaborate.
+### 📚 StudySync
 
-**Stack:** React, Node.js, Express, MongoDB
+**StudySync** is a study-focused web application designed to help students organise their learning, manage study sessions and timetables, and collaborate with others.
 
-[View Project](https://github.com/Tshepo101bheki)
+> 🚧 Currently in development
 
-### UniResCollab
-*Team project*
+**Tech Stack**
 
-A collaborative university research platform built as part of a team project. Gave me experience working with other developers using Git branches, contributing independently, and integrating work into a shared codebase.
+`React` `Node.js` `Express` `MongoDB`
 
-**Stack:** HTML, CSS, JavaScript, Git
+<div align="left">
 
-[View Project](https://github.com/MualusiLilimu/UniResCollab)
-
-### Machine Learning Projects
-
-A collection of academic and personal work exploring machine learning and data analysis, including classification, feature engineering, dimensionality reduction, and predictive modelling.
-
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/pacman-contribution-graph.svg">
-</picture>
+<a href="https://github.com/Tshepo101bheki">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-## Looking For
+---
 
-I'm looking to grow into a role that combines software engineering, data, and machine learning to build useful, scalable technology.
+### 🔬 UniResCollab
 
-**Target roles:** Software Engineering · Data Science · Machine Learning · Big Data · AI
+A collaborative university research platform developed as part of a team project.
 
-## Connect
+The project gave me experience working with other developers, using **Git branches**, contributing independently, and integrating work into a shared codebase.
 
-[GitHub](https://github.com/Tshepo101bheki) · [LinkedIn](YOUR_LINKEDIN_URL)
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Git`
+
+<div align="left">
+
+<a href="https://github.com/MualusiLilimu/UniResCollab">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 🤖 Machine Learning Projects
+
+A collection of academic and personal work exploring:
+
+* Classification
+* Feature Engineering
+* Dimensionality Reduction
+* Predictive Modelling
+* Data Analysis
+
+**Tech Stack**
+
+`Python` `NumPy` `Pandas` `Matplotlib`
+
+---
+
+## 🕹️ Contribution Activity
+
+<div align="center">
+
+<p>
+  <i>Eating my contributions one commit at a time...</i>
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/pacman-contribution-graph-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/pacman-contribution-graph.svg"
+/>
+
+<img
+ alt="Pac-Man eating my GitHub contribution graph"
+ src="https://raw.githubusercontent.com/Tshepo101bheki/Tshepo101bheki/output/pacman-contribution-graph.svg"
+/> </picture>
+
+</div>
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm looking to grow into a role where I can combine **software engineering, data, and machine learning** to build useful and scalable technology.
+
+### Interested In
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineering-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Big%20Data-0078D4?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Tshepo101bheki">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+**Thanks for visiting my profile! 👋**
+
+</div>
