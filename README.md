@@ -4,7 +4,7 @@
 
 ### Computer Science Student @ Wits · Software Developer · Aspiring Data Scientist
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=2E2E2E&center=true&vCenter=true&width=650&lines=Computer+Science+%40+Wits;Software+Developer;Data+Science+%26+Machine+Learning;Building+Things+That+Solve+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science;Software+Developer;Data+Science+%26+Machine+Learning;Building+Things+That+Solve+Problems" />
 
 <br>
 
